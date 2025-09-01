@@ -1,0 +1,18 @@
+{
+  "title": "Your Cart",
+  "empty": "Your cart is empty.",
+  "subtotal": "Subtotal",
+  "shipping": "Shipping",
+  "total": "Total",
+  "pickup": "Pickup in Arnhem (Free)",
+  "postnl": "PostNL (€5.50)",
+  "dhl": "DHL (€5.50)",
+  "email": "Email",
+  "name": "Name",
+  "address": "Address line",
+  "city": "City",
+  "postcode": "Postcode",
+  "note": "Order note (allergens, delivery time, message on card, etc.)",
+  "checkout": "Checkout with Mollie",
+  "continue": "Continue Shopping"
+}

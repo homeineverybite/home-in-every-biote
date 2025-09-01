@@ -1,0 +1,12 @@
+{
+  "thanks": "Thank you for your order!",
+  "summary": "Order summary",
+  "ship": "Shipping method",
+  "pickup": "Pickup in Arnhem",
+  "address": "Shipping address",
+  "note": "Order note",
+  "items": "Items",
+  "subtotal": "Subtotal",
+  "shipping": "Shipping",
+  "total": "Total"
+}

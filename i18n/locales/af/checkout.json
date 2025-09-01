@@ -1,0 +1,18 @@
+{
+  "title": "Jou Mandjie",
+  "empty": "Jou mandjie is leeg.",
+  "subtotal": "Subtotaal",
+  "shipping": "Versending",
+  "total": "Totaal",
+  "pickup": "Afhaal in Arnhem (Gratis)",
+  "postnl": "PostNL (€5,50)",
+  "dhl": "DHL (€5,50)",
+  "email": "E-pos",
+  "name": "Naam",
+  "address": "Adreslyn",
+  "city": "Stad",
+  "postcode": "Poskode",
+  "note": "Opmerking (allergene, afleweringstyd, boodskap op kaart, ens.)",
+  "checkout": "Betaal met Mollie",
+  "continue": "Gaan voort met inkopies"
+}

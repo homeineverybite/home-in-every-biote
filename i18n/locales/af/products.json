@@ -1,0 +1,26 @@
+{
+  "malva": {
+    "name": "Malvapoeding",
+    "description": "'n Gekarameliseerde koek geweek in romerige sous."
+  },
+  "rusks-malva": {
+    "name": "Malvapoeding Beskuit (14)",
+    "description": "Knapperige beskuit met Malva-geur."
+  },
+  "rusks-normal": {
+    "name": "Normale Beskuit (14)",
+    "description": "Tradisionele Suid-Afrikaanse beskuit."
+  },
+  "banana": {
+    "name": "Piesangbrood",
+    "description": "Soet brood gemaak van fyngedrukte piesangs."
+  },
+  "banana-choc": {
+    "name": "Piesangbrood met Sjokolade",
+    "description": "Piesangbrood met sjokolade."
+  },
+  "lamingtons": {
+    "name": "Lamingtons (8)",
+    "description": "Koek gedoop in sjokolade & klapper."
+  }
+}

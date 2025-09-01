@@ -1,0 +1,18 @@
+{
+  "title": "Jouw Winkelwagen",
+  "empty": "Je winkelwagen is leeg.",
+  "subtotal": "Subtotaal",
+  "shipping": "Verzending",
+  "total": "Totaal",
+  "pickup": "Afhalen in Arnhem (Gratis)",
+  "postnl": "PostNL (€5,50)",
+  "dhl": "DHL (€5,50)",
+  "email": "E-mail",
+  "name": "Naam",
+  "address": "Adresregel",
+  "city": "Stad",
+  "postcode": "Postcode",
+  "note": "Opmerking (allergenen, levertijd, boodschap op kaart, etc.)",
+  "checkout": "Afrekenen met Mollie",
+  "continue": "Verder Winkelen"
+}

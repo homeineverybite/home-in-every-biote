@@ -1,0 +1,26 @@
+{
+  "malva": {
+    "name": "Malva Pudding",
+    "description": "One caramelized cake soaked in creamy sauce."
+  },
+  "rusks-malva": {
+    "name": "Malva Pudding Rusks (14)",
+    "description": "Crispy rusks with Malva flavor."
+  },
+  "rusks-normal": {
+    "name": "Normal Rusks (14)",
+    "description": "Traditional South African rusks."
+  },
+  "banana": {
+    "name": "Banana Bread",
+    "description": "Sweet bread made from mashed bananas."
+  },
+  "banana-choc": {
+    "name": "Banana Bread with Chocolate",
+    "description": "Banana bread with chocolate."
+  },
+  "lamingtons": {
+    "name": "Lamingtons (8)",
+    "description": "Cake dipped in chocolate & coconut."
+  }
+}

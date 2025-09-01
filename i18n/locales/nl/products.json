@@ -1,0 +1,26 @@
+{
+  "malva": {
+    "name": "Malva Pudding",
+    "description": "Een gekarameliseerde cake gedrenkt in romige saus."
+  },
+  "rusks-malva": {
+    "name": "Malva Pudding Beschuit (14)",
+    "description": "Knapperige beschuiten met Malva-smaak."
+  },
+  "rusks-normal": {
+    "name": "Normale Beschuit (14)",
+    "description": "Traditionele Zuid-Afrikaanse beschuiten."
+  },
+  "banana": {
+    "name": "Bananenbrood",
+    "description": "Zoet brood gemaakt van geprakte bananen."
+  },
+  "banana-choc": {
+    "name": "Bananenbrood met Chocolade",
+    "description": "Bananenbrood met stukjes chocolade."
+  },
+  "lamingtons": {
+    "name": "Lamingtons (8)",
+    "description": "Cake gedoopt in chocolade & kokos."
+  }
+}
