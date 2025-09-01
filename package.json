@@ -5,11 +5,10 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "next start"
   },
   "dependencies": {
-    "nodemailer": "^6.9.12"
-    "@mollie/api-client": "^4.3.3",
+    "@mollie/api-client": "4.3.3",
     "autoprefixer": "^10.4.19",
     "i18next": "^23.7.15",
     "i18next-resources-to-backend": "^1.2.1",
@@ -19,6 +18,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-i18next": "^14.1.2",
-    "tailwindcss": "^3.4.4"
+    "tailwindcss": "^3.4.4",
+    "nodemailer": "^6.9.12"
   }
 }
