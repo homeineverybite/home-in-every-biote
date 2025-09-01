@@ -85,7 +85,7 @@ export default function CartPage() {
         <textarea className="w-full px-3 py-2 rounded-xl border h-24" placeholder={t("note")} value={note} onChange={e => setNote(e.target.value)} />
       </div>
 
-      <p className="mt-4 font-semibold">{t("shipping")}: {shippingCost === 0 ? "Free" : f"€{shippingCost:.2f}"}</p>
+      <p className="mt-4 font-semibold">{t("shipping")}: {shippingCost === 0 ? "Free" : `€${shippingCost.toFixed(2)}`}</p>
       <p className="mt-2 font-bold text-lg">{t("total")}: €{total.toFixed(2)}</p>
 
       <button disabled={cart.length === 0 || !email} onClick={handleCheckout} className="mt-4 w-full px-5 py-3 rounded-xl bg-neutral-900 text-white disabled:bg-neutral-300">
